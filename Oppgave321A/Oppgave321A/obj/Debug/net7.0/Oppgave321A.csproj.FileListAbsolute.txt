@@ -1,0 +1,14 @@
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\bin\Debug\net7.0\Oppgave321A.exe
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\bin\Debug\net7.0\Oppgave321A.deps.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\bin\Debug\net7.0\Oppgave321A.runtimeconfig.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\bin\Debug\net7.0\Oppgave321A.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\bin\Debug\net7.0\Oppgave321A.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\obj\Debug\net7.0\Oppgave321A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\obj\Debug\net7.0\Oppgave321A.AssemblyInfoInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\obj\Debug\net7.0\Oppgave321A.AssemblyInfo.cs
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\obj\Debug\net7.0\Oppgave321A.csproj.CoreCompileInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\obj\Debug\net7.0\Oppgave321A.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\obj\Debug\net7.0\refint\Oppgave321A.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\obj\Debug\net7.0\Oppgave321A.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\obj\Debug\net7.0\Oppgave321A.genruntimeconfig.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\Oppgave321A\Oppgave321A\obj\Debug\net7.0\ref\Oppgave321A.dll
