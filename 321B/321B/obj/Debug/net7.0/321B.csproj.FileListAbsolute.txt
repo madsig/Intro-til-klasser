@@ -1,0 +1,14 @@
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\obj\Debug\net7.0\321B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\obj\Debug\net7.0\321B.AssemblyInfoInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\obj\Debug\net7.0\321B.AssemblyInfo.cs
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\obj\Debug\net7.0\321B.csproj.CoreCompileInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\bin\Debug\net7.0\321B.exe
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\bin\Debug\net7.0\321B.deps.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\bin\Debug\net7.0\321B.runtimeconfig.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\bin\Debug\net7.0\321B.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\bin\Debug\net7.0\321B.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\obj\Debug\net7.0\321B.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\obj\Debug\net7.0\refint\321B.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\obj\Debug\net7.0\321B.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\obj\Debug\net7.0\321B.genruntimeconfig.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.16 - Intro til klasser\321B\321B\obj\Debug\net7.0\ref\321B.dll
